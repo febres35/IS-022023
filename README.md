@@ -8,3 +8,5 @@ Estructura Inicial
 * src/main -> directorio para el código fuente
 * src/test -> directorio para las pruebas unitarias
 * README.md -> archivo readme del proyectos
+
+Modificado desde github
